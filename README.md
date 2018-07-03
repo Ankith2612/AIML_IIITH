@@ -1,0 +1,1 @@
+This is repository for all the trainng stuff related to AIML
